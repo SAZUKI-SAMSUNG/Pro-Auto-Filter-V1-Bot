@@ -3,7 +3,7 @@
 
 
 
-# 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 button 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
+# 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 BUTTON 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
 <details><summary>bot deploy ways</summary>
