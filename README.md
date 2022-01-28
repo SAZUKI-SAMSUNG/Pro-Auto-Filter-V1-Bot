@@ -12,7 +12,7 @@
 
 ##DEPLOY
 
-<details><summary>deploy to pic with heroku</summary>
+<details><summary>𝐏𝐈𝐂 𝐖𝐈𝐓𝐇 𝐃𝐄𝐏𝐋𝐎𝐘</summary>
 <p>
 <br>
 
@@ -31,7 +31,7 @@ You can deploy this bot anywhere.
 
 
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐎𝐑𝐄𝐊𝐔</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot">
@@ -40,7 +40,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>Deploy To VPS</summary>
+<details><summary>𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐁𝐏𝐒</summary>
 <p>
 <pre>
 git clone https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot
@@ -56,7 +56,7 @@ python3 bot.py
 
 
 
-<details><summary>Deploy To tg bot</summary>
+<details><summary>𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐓𝐆 𝐁𝐎𝐓</summary>
 <p>
 <pre>
 You can deploy our bot in telegram bot
