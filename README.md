@@ -41,7 +41,7 @@ python3 bot.py
 <p>
 <pre>
 You can deploy our bot in telegram bot
-Bot username:@XTZ_HerokuBot
+Bot username:t.me/XTZ_HerokuBot
 
 How to deploy in bot
 
