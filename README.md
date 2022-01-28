@@ -5,6 +5,11 @@
 <p>
 <pre>
 
+
+<details><summary>deploy to pic with heroku</summary>
+<p>
+<br>
+
 [![Deploy](https://telegra.ph/file/7cde9e71ebffa93a0d209.jpg)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+auto-filter-𝚋𝚘𝚝!;created+by+𝑻𝑬𝑨𝑴+sazuki+kerala+bot!;A+simple+autofilter+Bot!;Auto+filter+with+single+button+and+double+button!;and+advanced+futures!)
