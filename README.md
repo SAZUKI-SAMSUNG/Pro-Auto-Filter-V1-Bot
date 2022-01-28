@@ -67,6 +67,6 @@ How to deploy in bot
 
 1.Start the heroku bot
 2.type /deploy and send to the bot
-3.wait for bot reply and send https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot
+3.wait for bot reply and send https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-BotXTZ_HerokuBot
 4.answer the variables eg. App id,app hash, bot token etc
 5.wait for deploy then use the bot
