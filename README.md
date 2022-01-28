@@ -6,7 +6,7 @@
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐁𝐔𝐓𝐓𝐎𝐍𝐒 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-<details><summary>bot deploy ways</summary>
+<details><summary>𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐖𝐀𝐘</summary>
 <p>
 <pre>
 
