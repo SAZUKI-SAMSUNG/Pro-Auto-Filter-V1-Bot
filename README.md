@@ -60,7 +60,7 @@ python3 bot.py
 <p>
 <pre>
 You can deploy our bot in telegram bot
-Bot username: https://t.me/XTZ_HerokuBot
+Bot username: https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-BotXTZ_HerokuBot
 
 How to deploy in bot
 
