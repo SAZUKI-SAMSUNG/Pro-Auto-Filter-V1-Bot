@@ -1,16 +1,16 @@
 
 {
-    "name": "team devourdevils",
+    "name": "SAZUKI",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/b308d89346393bae36e67.jpg",
+    "logo": "https://telegra.ph/file/a1c95f92ffb00a09268f2.jpg",
     "keywords": [
         "Auto",
         "Filter",
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://github.com/kamarjahan/PRO-SIMPLE-AUTOFILTER-BOT",
-    "repository": "https://github.com/kamarjahan/PRO-SIMPLE-AUTOFILTER-BOT",
+    "website": "https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot",
+    "repository": "https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot",
     "success_url": "https://telegram.dog/devourdevils",
     "helper_url": "https://t.me/TEAM_NARUTO_GRUOP",
     "env": {
