@@ -1,7 +1,7 @@
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/587d7e99f98fb0bc7d02b.mp4)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot)
+[![Deploy](https://telegra.ph/file/587d7e99f98fb0bc7d02b)](https://heroku.com/deploy?template=https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+auto-filter-𝚋𝚘𝚝!;created+by+𝑻𝑬𝑨𝑴+sazuki+kerala+bot!;A+simple+autofilter+Bot!;Auto+filter+with+single+button+and+double+button!;and+advanced+futures!)
 </p>
