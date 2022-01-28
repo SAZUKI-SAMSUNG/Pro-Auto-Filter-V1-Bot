@@ -1,3 +1,8 @@
+![ SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+auto-filter-𝚋𝚘𝚝!;created+by+𝑻𝑬𝑨𝑴+sazuki+kerala+bot!;A+simple+autofilter+Bot!;Auto+filter+with+single+button+and+double+button!;and+advanced+futures!)
+</p>
+
+
+
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 button 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
@@ -5,6 +10,7 @@
 <p>
 <pre>
 
+##DEPLOY
 
 <details><summary>deploy to pic with heroku</summary>
 <p>
@@ -17,12 +23,10 @@
 </p>
 </details>
 
-![ SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+auto-filter-𝚋𝚘𝚝!;created+by+𝑻𝑬𝑨𝑴+sazuki+kerala+bot!;A+simple+autofilter+Bot!;Auto+filter+with+single+button+and+double+button!;and+advanced+futures!)
-</p>
 
 
 
-## Deploy
+
 You can deploy this bot anywhere.
 
 
