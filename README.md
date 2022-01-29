@@ -40,7 +40,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-<details><summary>𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐁𝐏𝐒</summary>
+<details><summary>𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 V𝐏𝐒</summary>
 <p>
 <pre>
 git clone https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot
