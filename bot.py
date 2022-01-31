@@ -10,7 +10,7 @@ from pyrogram import (
 
 from config import (
     API_HASH,
-    APP_ID,
+    API_ID,
     LOGGER,
     TG_BOT_SESSION,
     TG_BOT_TOKEN,
