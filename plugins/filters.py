@@ -189,7 +189,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="help_data"),
                     InlineKeyboardButton("START", callback_data="start_data")],
-                [InlineKeyboardButton("SOURCE CODE", url="https://github.com/SAZUKI-SAMSUNG/Pro-Auto-Filter-V1-Bot")]
+                [InlineKeyboardButton("SOURCE CODE", url="https://t.me/NOKKIERUNNOEPPPKITTUM")]
             ])
 
             await query.message.edit_text(
